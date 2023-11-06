@@ -1,0 +1,37 @@
+body {
+    background-color: aliceblue;
+}
+
+
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.marco {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    display: flex;
+    justify-content: flex-start;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+
+
